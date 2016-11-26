@@ -190,7 +190,7 @@ textarea#title {
          background-repeat: no-repeat;
 	
 }
-
+/* this is where the scores are located*/
 #game tfoot td {
 	text-align: center;
 	background-color:#000;
